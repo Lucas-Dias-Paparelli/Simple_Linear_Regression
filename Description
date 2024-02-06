@@ -1,0 +1,17 @@
+Português:
+
+Este projeto utiliza uma análise de regressão linear simples para prever o salário com base nos anos de experiência.
+A análise é realizada em um conjunto de dados que contém informações sobre anos de experiência e salário correspondente para um grupo de indivíduos. 
+O objetivo é entender a relação entre essas variáveis e construir um modelo que possa prever o salário com base nos anos de experiência. 
+O projeto envolve pré-processamento e limpeza de dados, análise exploratória, construção e avaliação do modelo de regressão, e visualização dos resultados. 
+A conclusão da análise destaca a forte correlação positiva entre anos de experiência e salário, e o bom desempenho do modelo na previsão do salário com base nesses dados.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+English:
+
+This project employs a simple linear regression analysis to predict salary based on years of experience. 
+The analysis is conducted on a dataset containing information about years of experience and corresponding salary for a group of individuals. 
+The aim is to understand the relationship between these variables and build a model that can predict salary based on years of experience. 
+The project involves data preprocessing and cleaning, exploratory analysis, construction and evaluation of the regression model, and visualization of the results. 
+The conclusion of the analysis highlights the strong positive correlation between years of experience and salary, and the model's good performance in predicting salary based on this data.
